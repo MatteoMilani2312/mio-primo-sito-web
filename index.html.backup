@@ -8,13 +8,9 @@
 </head>
 </html>
 <body>
-    <h1>Benvenuto nel fantastico mondo di git</h1>
+    <h1>Benvenuto nel mio sito</h1>
     <p>Questo è il nostro primo progetto Git.</p>
     <script src="script.js"></script>
-    <footer>
-    <p></body>copy; 2025 Il Mio Primo Sito. Tutti i diritti riservati.</p>
-    <p>Creato con Git e Github</p>
-  </footer>
 </body>
 </html>
 
